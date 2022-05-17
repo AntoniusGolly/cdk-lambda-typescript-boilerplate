@@ -1,0 +1,14 @@
+.idea
+
+node_modules
+coverage/*
+
+bin/*.d.ts
+bin/*.js
+
+lib/*.d.ts
+lib/*.js
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
